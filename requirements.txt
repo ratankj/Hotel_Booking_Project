@@ -1,0 +1,10 @@
+numpy
+flask
+pandas
+scikit-learn
+seaborn
+ipykernel 
+category_encoders
+xgboost
+
+-e .
